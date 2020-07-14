@@ -2,8 +2,12 @@ pseudo code
 {
 Initial Function()
 {
-  //Sample Code
+  //Sample code
 
  feature 1
+
+ feature 2
+
+
 }
 
